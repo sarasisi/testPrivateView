@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>ADanVCTransitionDemo.xcscheme</key>
+		<key>O2ViewDemo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>A3C24A8E1D1BD82400EE052C</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>A3C24AA71D1BD82400EE052C</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>A3C24AB21D1BD82400EE052C</key>
+		<key>B217A32B1C328A6A00009E6C</key>
 		<dict>
 			<key>primary</key>
 			<true/>

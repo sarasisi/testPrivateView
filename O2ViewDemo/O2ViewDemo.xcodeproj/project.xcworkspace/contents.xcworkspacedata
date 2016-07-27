@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ADanVCTransitionDemo.xcodeproj">
+      location = "self:O2ViewDemo.xcodeproj">
    </FileRef>
 </Workspace>
